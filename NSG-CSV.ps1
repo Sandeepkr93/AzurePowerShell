@@ -1,7 +1,7 @@
 ﻿#Connect-AzAccount
 $subs = Get-AzSubscription 
 $output1 = @();
-$exportPath = 'C:\Users\M1056612\Desktop\Azure Network Overivew ARM\NSG.csv'
+$exportPath = 'your path'
 $portNum = Read-Host -Prompt "Enter the Port Number"
 try
 {
