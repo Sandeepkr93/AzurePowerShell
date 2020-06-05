@@ -20,7 +20,7 @@
   [string]
   $portRanges,
   
-  $exportPath = 'C:\Users\M1056612\Desktop\Azure Network Overivew ARM\NSG.csv'
+  $exportPath = 'your path'
 )
 $NsgRuleSet = @()
 # sign in
